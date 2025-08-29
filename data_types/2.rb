@@ -8,7 +8,9 @@
 counter = 0
 
 counter += 1
+
 puts counter
 
 counter += 5
+
 puts counter

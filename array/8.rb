@@ -6,4 +6,5 @@
 
 array = [5, 2, 8, 2, 3, 8, 1]
 
+
 puts array.uniq.sort

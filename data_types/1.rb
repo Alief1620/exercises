@@ -7,7 +7,9 @@
 #снова выведи тип
 
 num = "123"
+
 puts num.class
 
 num_int = "123".to_i
+
 puts num_int.class

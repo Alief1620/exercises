@@ -13,6 +13,9 @@ banana = prices[:banana]
 orange = prices[:orange]
 
 puts("apple стоит #{apple}")
+
 puts("banana стоит #{banana}")
+
 puts("orange стоит #{orange}")
+
 

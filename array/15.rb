@@ -7,4 +7,5 @@ array = ["apple","banana","cherry","avocado"]
 
 result = array.select { |word| word[0].downcase == "a"}
 
+
 puts result.inspect

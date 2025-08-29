@@ -49,4 +49,5 @@ when '^'
 
   result = number_1 ** number_2
   puts "ваш ответ #{result}"
+
 end

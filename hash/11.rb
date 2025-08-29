@@ -15,6 +15,7 @@ student = {
   grades: {math: 5, physics: 4, english: 3}
 }
 
+
 grade_student = {math: 5, physics: 4, english: 3}
 
 sred_bal_student = grade_student.values.sum / grade_student.size.to_f

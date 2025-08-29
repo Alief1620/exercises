@@ -11,6 +11,7 @@
 #
 # "/" → деление
 
+
 def calc(a, b, operator)
   puts a.send(operator, b)
 end

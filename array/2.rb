@@ -6,4 +6,5 @@
 array = [5, 10, 15, 20]
 
 puts array[0]
+
 puts array[3]

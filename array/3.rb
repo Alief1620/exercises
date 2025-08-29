@@ -9,4 +9,5 @@ array[0] = "apple"
 array[1] = "banana"
 array[2] = "груша"
 
+
 puts array.inspect
