@@ -7,10 +7,13 @@
 #для каждого объекта выводит его класс (.class).
 
 array = (1..5).to_a
+
 puts array.class
 
-hash = {a: 1, b: 2, c: 3}
+hash = { a: 1, b: 2, c: 3 }
+
 puts hash.class
 
 string = "aadlkscn"
+
 puts string.class

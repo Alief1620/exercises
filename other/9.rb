@@ -18,7 +18,6 @@ choice = variant_comp[computer_choice]
 
 puts "Компьютер выбрал: #{choice}"
 
-
 if variant == choice
   puts 'Ничья'
 elsif variant == 0 && choice == 1

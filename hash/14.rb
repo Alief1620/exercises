@@ -7,6 +7,7 @@
 #
 # Объедини их так, чтобы получилось { name: "Alice", age: 30, city: "Moscow" }.
 
+
 user1 = { name: "Alice", age: 25 }
 user2 = { age: 30, city: "Moscow" }
 

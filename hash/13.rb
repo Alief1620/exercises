@@ -7,6 +7,7 @@
 # Результат должен быть вроде:
 # { "r" => 1, "u" => 1, "b" => 1, ... }
 
+
 str = "ruby is the best"
 
 puts str.invert.inspect

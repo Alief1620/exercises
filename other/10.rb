@@ -12,7 +12,6 @@ puts 'Компьютер выбрал: ' + names[computer_choice]
 
 puts 'Вы выбрали: ' + names[user_choice]
 
-
 if user_choice == computer_choice
   puts 'Ничья'
 elsif user_choice == 0 && computer_choice == 1

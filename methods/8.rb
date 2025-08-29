@@ -9,6 +9,7 @@
 #
 # иначе → return "Положительное"
 
+
 def check_number(num)
   return "negative" if num < 0
   return "positive" if num > 0

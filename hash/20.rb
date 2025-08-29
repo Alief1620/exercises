@@ -13,6 +13,7 @@
 #
 # Посчитай сумму всех товаров в магазине.
 
+
 store = {
   electronics: { phone: 1000, laptop: 1500 },
   clothes: { tshirt: 20, jeans: 50 }

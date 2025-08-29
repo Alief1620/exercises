@@ -7,4 +7,5 @@ a = [1, 2, 3]
 b = [3, 4, 5]
 
 a_b = a + b
+
 puts a_b.uniq.inspect

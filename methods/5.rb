@@ -7,6 +7,7 @@
 #
 # Если отрицательное или ноль → вернуть false.
 
+
 def positive?(num)
   if num > 0
     puts true
